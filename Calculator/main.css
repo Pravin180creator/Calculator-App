@@ -58,7 +58,7 @@
     border-radius: 8px;
     padding: 10px;
     box-sizing: border-box;
-    color: #333; /* Adjust text color */
+    color: #333;
 }
 
 
@@ -69,11 +69,11 @@
     font-weight: 700;
     width: 100%;
     white-space: nowrap;
-    border: 2px solid whites; /* Add border */
-    padding: 10px; /* Add padding */
-    margin-top: 10px; /* Add margin for separation */
-    box-sizing: border-box; /* Include padding in width */
-    display: block; /* Display as block to create a new line */
+    border: 2px solid whites; 
+    padding: 10px; 
+    margin-top: 10px; 
+    box-sizing: border-box; 
+    display: block; 
 }
 
 
